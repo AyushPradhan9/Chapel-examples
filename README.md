@@ -16,15 +16,19 @@ chpl -o array array.chpl
 Installation of chapel and setting the path from the terminal is required for compilation of chapel programs.
 
 ## Examples
-- 2Darray -
+- 2Darray - 
 Implementation of 2D array and nested for loop is displayed in the example. Also by this example, we can understand multi-array mechanism in Chapel.
-- array -
+- array - 
 Implementation of array and simple for loop can be seen here.
-- Basic maths operations -
+- Basic maths operations
 Implementation of basic mathematical operations like sum, difference, product and division is present in this example.
-- dataTypes -
+- classes - 
+Implementation of classes to find fibonacci series
+- dataTypes - 
 Different primitive data types are implemented in this example.
-- nestedIfElse -
+- nestedIfElse - 
 Implementation of nested If-Else can be seen in this example.
-- procedures -
+- procedures - 
 Procedures/function can be seen in this example, also how a main procedure/function can also be seen in the example.
+- select - 
+Implementation of "select case"/"switch case"
